@@ -1,3 +1,29 @@
-This is a test
+1. Culvert - Asset table
+2. Culvert object class name
 
-Edit the file....
+Object Model v1 only....
+
+
+
+naming convention - in progress
+
+Namespace
+
+
+Unit ? in object model
+get Catalog - imperial or metric
+
+300mm 
+12inches--> 10.5cm -> 11.999 inches
+
+
+GeometryBuffer ( LL, m, ft)
+Content ( ft, m )
+
+
+Other obj Model:
+HelperClass 
+
+
+
+Arch
